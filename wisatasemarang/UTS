@@ -1,2 +1,5 @@
 #UTS-20.01.55.0018
-#d
+#Db "wisatasemarang"
+#Tabel wisatasemarang (id, nama, alamat, harga_tiket)
+#menyimpan koneksi
+  folder C:\xampp\htdocs\wisatasemarang\: koneksi.php dan master.php.
