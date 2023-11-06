@@ -3,3 +3,69 @@
 #Tabel wisatasemarang (id, nama, alamat, harga_tiket)
 #menyimpan koneksi
   folder C:\xampp\htdocs\wisatasemarang\: koneksi.php dan master.php.
+#Uji di POSTMAN
+ masukan URL : http://localhost/wisatasemarang/master.php.
+ Hasil :
+[
+    {
+        "id": 1,
+        "nama": "Ayanaz Gedong Songo",
+        "alamat": "Candi Gedong Songo, Krajan, Banyukuning, Kec. Bandungan, Semarang, Jawa Tengah 50614",
+        "harga_tiket": 25000
+    },
+    {
+        "id": 2,
+        "nama": "Lawang Sewu",
+        "alamat": "Jl. Pemuda, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+        "harga_tiket": 25000
+    },
+    {
+        "id": 3,
+        "nama": "Saloka Theme Park",
+        "alamat": "Jl. Fatmawati No.154, Gumuksari, Lopait, Kec. Tuntang, Semarang, Jawa Tengah 50773 (Dekat Rawa Pening)",
+        "harga_tiket": 120000
+    },
+    {
+        "id": 4,
+        "nama": "Klenteng Sam Poo Kong",
+        "alamat": "Jl. Simongan No.129, Bongsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50148",
+        "harga_tiket": 35000
+    },
+    {
+        "id": 5,
+        "nama": "Kota Lama Semarang",
+        "alamat": "Jl. Letjen Suprapto No.31, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50137",
+        "harga_tiket": 0
+    },
+    {
+        "id": 6,
+        "nama": "Kampung Pelangi",
+        "alamat": "Jl. DR. Sutomo No.89, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244",
+        "harga_tiket": 0
+    },
+    {
+        "id": 7,
+        "nama": "Museum Ranggawarsita",
+        "alamat": "Jl. Abdul Rahman Saleh No.1, Kalibanteng Kidul, Semarang Barat, Kalibanteng Kidul, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50149",
+        "harga_tiket": 6000
+    },
+    {
+        "id": 8,
+        "nama": "Dusun Semilir Eco Park",
+        "alamat": "Jl. Soekarno - Hatta No.49, Ngemple, Bawen, Ngemplak, Semarang, Jawa Tengah 50661",
+        "harga_tiket": 30000
+    },
+    {
+        "id": 9,
+        "nama": "Umbul Sidomukti",
+        "alamat": "Umbul Sidomukti, Manggung, Jimbaran, Bandungan, Semarang, Central Java 50661",
+        "harga_tiket": 20000
+    },
+    {
+        "id": 10,
+        "nama": "Taman Wilis",
+        "alamat": "Jl. Wilis No.3, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50614",
+        "harga_tiket": 0
+    }
+]
+
